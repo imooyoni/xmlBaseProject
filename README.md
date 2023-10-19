@@ -2,14 +2,14 @@
 ##description
 23.10.17 ~
 
-##settings
+## settings
 FRAMEWORK : spring 5.0.7
 JDK :java 1.8
 DB : oracle 11g
 WAS : tomcat 9.0
 IDE : eclipse 21.03
 
-##structure
+## structure
 org
  └─base
      ├─controller
@@ -29,7 +29,7 @@ org
      └─util
             Logger.java
 
-##library
+## library
   * junit 4.7
   * mybatis 3.4.6
   * hikariCP 2.7.8
