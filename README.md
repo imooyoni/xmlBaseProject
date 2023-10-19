@@ -1,33 +1,33 @@
 # xmlBaseProject 
 ##description
-23.10.17 ~
+23.10.17 ~<br/>
  
 ## settings
-FRAMEWORK : spring 5.0.7 
-JDK :java 1.8 
-DB : oracle 11g 
-WAS : tomcat 9.0 
-IDE : eclipse 21.03 
- 
+FRAMEWORK : spring 5.0.7 <br/>
+JDK :java 1.8 <br/>
+DB : oracle 11g <br/>
+WAS : tomcat 9.0 <br/>
+IDE : eclipse 21.03 <br/>
+ <br/>
 ## structure
-org 
- └─base 
-     ├─controller 
-     │      BoardController.java 
-     │      HomeController.java 
-     │       
-     ├─domain 
-     │      BoardVO.java 
-     │       
-     ├─mapper 
-     │      BoardMapper.java 
-     │       
-     ├─service 
-     │      BoardService.java 
-     │      BoardServiceImpl.java 
-     │       
-     └─util 
-            Logger.java 
+org <br/>
+ └─base <br/>
+     ├─controller <br/>
+     │      BoardController.java <br/>
+     │      HomeController.java <br/>
+     │       <br/>
+     ├─domain <br/>
+     │      BoardVO.java <br/>
+     │       <br/>
+     ├─mapper <br/>
+     │      BoardMapper.java <br/>
+     │       <br/>
+     ├─service <br/>
+     │      BoardService.java <br/>
+     │      BoardServiceImpl.java <br/>
+     │       <br/>
+     └─util <br/>
+            Logger.java <br/>
  
 ## library
   * junit 4.7 
