@@ -11,22 +11,22 @@ IDE : eclipse 21.03 <br/>
  <br/>
 ## structure
 org <br/>
- └─base <br/>
-     ├─controller <br/>
-     │      BoardController.java <br/>
-     │      HomeController.java <br/>
-     │       <br/>
-     ├─domain <br/>
-     │      BoardVO.java <br/>
-     │       <br/>
-     ├─mapper <br/>
-     │      BoardMapper.java <br/>
-     │       <br/>
-     ├─service <br/>
-     │      BoardService.java <br/>
-     │      BoardServiceImpl.java <br/>
-     │       <br/>
-     └─util <br/>
+　└─base <br/>
+　　├─controller <br/>
+　　│　　BoardController.java <br/>
+　　│　　HomeController.java <br/>
+　　│<br/>
+　　├─domain <br/>
+　　│　　BoardVO.java <br/>
+　　│<br/>
+　　├─mapper <br/>
+　　│　　BoardMapper.java <br/>
+　　│<br/>
+　　├─service <br/>
+　　│　　BoardService.java <br/>
+　　│　　BoardServiceImpl.java <br/>
+　　│<br/>
+　　└─util <br/>
             Logger.java <br/>
  
 ## library
