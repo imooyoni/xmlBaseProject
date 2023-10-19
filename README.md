@@ -3,11 +3,11 @@
 23.10.17 ~
 
 ## settings
-FRAMEWORK : spring 5.0.7
-JDK :java 1.8
-DB : oracle 11g
-WAS : tomcat 9.0
-IDE : eclipse 21.03
+FRAMEWORK : spring 5.0.7  
+JDK :java 1.8  
+DB : oracle 11g  
+WAS : tomcat 9.0  
+IDE : eclipse 21.03  
 
 ## structure
 org
